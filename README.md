@@ -403,7 +403,7 @@ faff-v0
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/faff-v0.git
+git clone https://github.com/Nitsinghtomar/Ticketing_system_FAFF.git
 cd faff-v0
 
 # Install dependencies
