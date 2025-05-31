@@ -5,7 +5,7 @@ A minimal but polished internal ticketing interface where operations teams can v
 ## 🚀 Live Demo
 Click on this link :``` https://faff-v0-client.onrender.com```
 
-#Note
+##Note
 
 The AI tasks such as AI summary and QA reviews might not work in the LIVE DEMO due to AI-key issues or CORS issues so please refer the video below.
 
