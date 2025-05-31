@@ -524,20 +524,6 @@ REACT_APP_ENVIRONMENT=development
 - No offline functionality
 - Limited to single server instance
 
-## 🚀 Deployment
-
-### **Frontend (Vercel)**
-```bash
-cd client
-npm run build
-npx vercel --prod
-```
-
-### **Backend (Render)**
-1. Connect GitHub repository to Render
-2. Set build command: `cd server && npm install && npm run build`
-3. Set start command: `cd server && npm start`
-4. Add environment variables in Render dashboard
 
 ## 🔮 Future Enhancement Roadmap
 
