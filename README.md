@@ -3,10 +3,14 @@
 A minimal but polished internal ticketing interface where operations teams can view & manage tasks, participate in threaded group chats, and leverage AI-powered summarization and quality assurance.
 
 ## 🚀 Live Demo
+Click on this link :``` https://faff-v0-client.onrender.com```
+#Note
+The AI tasks such as AI summary and QA reviews might not work in the LIVE DEMO due to AI-key issues or CORS issues.
 
-**Frontend**: [Your Vercel URL here]  
-**Backend API**: [Your Render URL here]
-
+## VIdeo Showing how to use the application (Refer this if above Live Demo does not work)
+```
+https://www.loom.com/share/14220059776e40799aae014aad3b2a2f?sid=1e915d23-1693-4fdf-ab63-ebfa0e59a9b8
+```
 > **Note**: Backend may take 30-60 seconds to wake up on first load (Render free tier)
 
 ## Directory Structure
@@ -533,7 +537,7 @@ npx vercel --prod
 3. Set start command: `cd server && npm start`
 4. Add environment variables in Render dashboard
 
-## 🔮 Immediate Enhancement Roadmap
+## 🔮 Future Enhancement Roadmap
 
 ### **Performance Improvements**
 1. **Implement virtual scrolling** for task list to handle 1000+ tasks
